@@ -30,7 +30,7 @@ To run Bloom Within locally on your machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/.git
+   git clone https://github.com/TANISHA-singh-7/BloomWithin.git
 
 2. Create .env file to store the
    ```bash
