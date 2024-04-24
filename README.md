@@ -1,6 +1,5 @@
-# **Bloom Within**: Comprehensive Mental Health Support Platform
-
- is an all-in-one mental health support platform designed to empower individuals on their journey to emotional well-being. Our platform offers a range of features and resources to help you understand, manage, and improve your mental health. Whether you're seeking therapy insights, mood tracking, mindfulness sessions, or community engagement,  has you covered.
+# Bloom Within: Comprehensive Mental Health Support Platform
+ is an all-in-one mental health support platform designed to empower individuals on their journey to emotional well-being. Our platform offers a range of features and resources to help you understand, manage, and improve your mental health. Whether you're seeking therapy insights, mood tracking, mindfulness sessions, or community engagement, Bloom Within has you covered.
 
 ## Features
 
@@ -26,7 +25,7 @@ Join our guided mindfulness sessions for relaxation, stress reduction, and inner
 
 ## Installation
 
-To run BrightPsych locally on your machine, follow these steps:
+To run Bloom Within locally on your machine, follow these steps:
 
 1. Clone the repository:
 
@@ -67,7 +66,7 @@ To run BrightPsych locally on your machine, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to BrightPsych, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+We welcome contributions from the community! If you'd like to contribute to Bloom Within, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
 ## License
 
