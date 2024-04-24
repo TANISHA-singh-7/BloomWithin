@@ -1,6 +1,6 @@
-# MindPositive: Comprehensive Mental Health Support Platform
+# **Bloom Within**: Comprehensive Mental Health Support Platform
 
-MindPositive is an all-in-one mental health support platform designed to empower individuals on their journey to emotional well-being. Our platform offers a range of features and resources to help you understand, manage, and improve your mental health. Whether you're seeking therapy insights, mood tracking, mindfulness sessions, or community engagement, MindPositive has you covered.
+ is an all-in-one mental health support platform designed to empower individuals on their journey to emotional well-being. Our platform offers a range of features and resources to help you understand, manage, and improve your mental health. Whether you're seeking therapy insights, mood tracking, mindfulness sessions, or community engagement,  has you covered.
 
 ## Features
 
